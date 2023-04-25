@@ -15,6 +15,13 @@ Bill of materials
 - 6x10x3mm flanged bearing (MF106-ZZ or MF106-2RS)
 - 8x14x4mm flanged bearing (MF148-ZZ or MF148-2RS)
 
+Print settings
+--------------
+
+0.2mm layer height, 4 perimeters, 5 top/bottom solid layers, 40% infill.
+
+Tested with ABS but probably anything is fine.
+
 Assembly
 --------
 
