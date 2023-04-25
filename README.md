@@ -42,6 +42,8 @@ it fit.
 5. Use 4 M3x30 screws to attach the bottom part to the top plate.
 6. Install the encoder with its bracket, and secure it with the set screws.
 
+[Step by step images](Images/Assembly_images.md)
+
 Disclaimer
 ----------
 
