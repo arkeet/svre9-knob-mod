@@ -6,7 +6,7 @@ to use ball bearings, similar to Valkyrie Model. It reuses the original shaft, t
 encoder bracket.
 
 ![Assembly](Images/Assembly.png)
-![Assembly](Images/NemsysMod.png)
+![Assembly](Images/NemsysMod.jpg)
 
 Bill of materials
 -----------------
