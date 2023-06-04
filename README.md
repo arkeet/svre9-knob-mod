@@ -12,6 +12,7 @@ Bill of materials
 -----------------
 
 Linked parts are tested and working but parts are generic, others will likely be fine.
+
 Quantities are for 2 knobs (1 pair). Linked parts have more than enough for several pairs.
 
 - M3x30 socket head cap screw - `8 pcs` - [Amazon](https://a.co/d/0tDwU9o)
