@@ -15,10 +15,10 @@ Linked parts are tested and working but parts are generic, others will likely be
 
 Quantities are for 2 knobs (1 pair). Linked parts have more than enough for several pairs.
 
-- M3x30 socket head cap screw - `8 pcs` - [Amazon](https://a.co/d/0tDwU9o)
-- 6x10x3mm flanged bearing (MF106-ZZ or MF106-2RS) - `2 pcs` - [Amazon](https://a.co/d/aINREZl)
-- 8x14x4mm flanged bearing (MF148-ZZ or MF148-2RS) - `2 pcs` - [Amazon](https://a.co/d/gLa0Dsq)
-- M3 hex nut, **OR** M3x5x4 (Voron) heat-set threaded insert - `4 pcs` - [McMaster-Carr](https://www.mcmaster.com/catalog/129/3725/94180A331)
+- M3x30 socket head cap screw - `8 pcs`
+- 6x10x3mm flanged bearing (MF106-ZZ or MF106-2RS) - `2 pcs`
+- 8x14x4mm flanged bearing (MF148-ZZ or MF148-2RS) - `2 pcs`
+- M3 hex nut, **OR** M3x5x4 (Voron-style) heat-set threaded insert - `8 pcs`
 
 
 Print settings
